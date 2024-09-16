@@ -709,35 +709,35 @@
     font-size: 14px;
   }
 
-  #contact-way .border-rt {
+  .contact-ways .border-rt {
     border-right: none;
   }
 
-  #contact-way .map {
+  .contact-ways .map {
     height: 300px;
   }
 
-  #contact-way .address {
+  .contact-ways .address {
     width: 100%;
     padding: 5px 5px;
   }
 
-  #contact-way .visit-time {
+  .contact-ways .visit-time {
     width: 100%;
     padding: 5px 5px 15px 5px;
   }
 
-  #messege-section {
+  .messege-section {
     padding: 20px 0px;
   }
 
-  #messege-section h3 {
+  .messege-section h3 {
     font-size: 18px;
     padding-left: 10px;
     padding-right: 10px;
   }
 
-  #messege-section .form-area {
+  .messege-section .form-area {
     width: 100%;
   }
 
@@ -1685,35 +1685,35 @@
     font-size: 14px;
   }
 
-  #contact-way .border-rt {
+  .contact-ways .border-rt {
     border-right: none;
   }
 
-  #contact-way .map {
+  .contact-ways .map {
     height: 300px;
   }
 
-  #contact-way .address {
+  .contact-ways .address {
     width: 100%;
     padding: 5px 5px;
   }
 
-  #contact-way .visit-time {
+  .contact-ways .visit-time {
     width: 100%;
     padding: 5px 5px 15px 5px;
   }
 
-  #messege-section {
+  .messege-section {
     padding: 20px 0px;
   }
 
-  #messege-section h3 {
+  .messege-section h3 {
     font-size: 18px;
     padding-left: 10px;
     padding-right: 10px;
   }
 
-  #messege-section .form-area {
+  .messege-section .form-area {
     width: 100%;
   }
 
@@ -2718,35 +2718,35 @@
     font-size: 14px;
   }
 
-  #contact-way .border-rt {
+  .contact-ways .border-rt {
     border-right: none;
   }
 
-  #contact-way .map {
+  .contact-ways .map {
     height: 300px;
   }
 
-  #contact-way .address {
+  .contact-ways .address {
     width: 100%;
     padding: 5px 5px;
   }
 
-  #contact-way .visit-time {
+  .contact-ways .visit-time {
     width: 100%;
     padding: 5px 5px 15px 5px;
   }
 
-  #messege-section {
+  .messege-section {
     padding: 20px 0px;
   }
 
-  #messege-section h3 {
+  .messege-section h3 {
     font-size: 18px;
     padding-left: 10px;
     padding-right: 10px;
   }
 
-  #messege-section .form-area {
+  .messege-section .form-area {
     width: 100%;
   }
 
